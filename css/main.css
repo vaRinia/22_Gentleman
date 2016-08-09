@@ -1,0 +1,95 @@
+*{
+	font-family: Verdana;
+}
+.bg-negro {
+	background-color: black;
+}
+a:hover {
+	color: pink;
+}
+li {
+	display: inline-block;
+}
+.pd-2 {
+	padding: 2%;
+}
+a {
+	color: white;
+}
+.titulo {
+	font-size: 2em;
+}
+.pd-l-r{
+	padding-left: 15%;
+	padding-right: 15%
+}
+.bg-white {
+	background-color: white;
+}
+.bot-g {
+	background-color: gray;
+	border-radius: 20px;
+	margin-top: 4%;
+}
+.rosa {
+	background-color: pink;
+	border-radius: 5px;
+}
+hr{
+	margin-bottom: 5%;
+}
+.t-gris {
+	color: gray;
+}
+.mg-b-5 {
+	margin-bottom: 5%;
+}
+.azul {
+	width: 15%;
+	height: 20px;
+	background-color: lightblue; 
+	display: inline-block;
+	margin: 2%
+}
+.t-bold {
+	font-weight: bold;
+}
+.t-p8 {
+	font-size: 0.8em;
+}
+.t-justify {
+	text-align: justify;
+}
+.inl {
+	display: inline-block;
+}
+.pd-0 {
+	padding: 0%;
+}
+.t-p7 {
+	font-size: 0.7em;
+}
+.t-1p5 {
+	font-size: 1.5em;
+}
+.cursiva {
+	font-style: italic;
+}
+.t-pink {
+	color: pink;
+}
+.mini {
+	width: 15%;
+	border:dashed white 1px;
+	border-radius: 100%;
+}
+.inmail {
+	width: 100%;
+	height: 50px;
+	margin-top: 2%;
+	background-color: gray;
+	border-color: gray;
+}
+.mg-l{
+	margin-left: 15%;
+}
