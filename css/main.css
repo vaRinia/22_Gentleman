@@ -1,5 +1,5 @@
 *{
-	font-family: Verdana;
+	font-family: Open Sans;
 }
 .bg-negro {
 	background-color: #3B3B3B;
@@ -41,7 +41,7 @@ hr{
 	margin-bottom: 5%;
 }
 .t-gris {
-	color: #3B3B3B;
+	color: gray;
 }
 .mg-b-5 {
 	margin-bottom: 5%;
